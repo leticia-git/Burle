@@ -1,0 +1,155 @@
+menu{
+    margin-top: 7px;
+  }
+  
+  
+  header menu ul {
+  float: right;
+  margin-right: 20px;
+  font-family: LEMON MILK;
+  font-size: 18pt;
+  list-style: none;}
+  
+  menu a {
+  text-decoration: none;
+  color: black;
+  margin-right: 50px;
+  }
+  
+  menu a:hover {
+  color: rgb(240, 227, 156); }
+  
+  menu img{
+  width: 130pt;
+  margin-left: 780px;
+  }
+
+.menu-loja a{
+  position: fixed;
+}
+
+  main img{
+    position: absolute;
+  }
+  
+  .sofa{
+  margin-left: 800px;
+  padding-top:450px;
+  }
+  
+  nav img{
+    position: absolute;
+    margin-left:1300px;
+    margin-top: -45px;
+    width: 25px;
+  }
+
+.menu-loja{
+    list-style: none;
+    text-decoration: none;
+    font-family: LEMON MILK;
+  font-size: 18pt;
+  }
+  
+  .menu-loja a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .menu-loja a:hover {
+    color: rgb(240, 227, 156); }
+  
+  
+    .Poltronas{
+      list-style: none;
+      font-family: FELL Double Pica;
+      font-size: 200px;
+      font-style: italic;
+      position: absolute;
+      margin: 490px 0px 0px 1000px;
+      color: #847F5B;  }
+  
+  .Poltronas a:hover {
+    color: black; }
+  
+  .fundo{
+    position: relative;
+    margin-left: 350px;
+    
+  }
+
+  .sofas{
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 500px;
+  }
+
+  .Sofas{
+   
+    list-style: none;
+    font-family: FELL Double Pica;
+    font-size: 200px;
+    font-style: italic;
+    position: absolute;
+    margin: 1200px 0px 0px 200px;
+    color: #213A50;  }
+
+.Sofas a:hover {
+  color: black; }
+
+
+  .mesa{
+    position: absolute;
+    margin-top: 1600px;
+    margin-left: 100px;
+  }
+
+  .mesas{
+   
+    list-style: none;
+    font-family: FELL Double Pica;
+    font-size: 200px;
+    font-style: italic;
+    position: absolute;
+    margin: 2100px 0px 0px 1000px;
+    color: #ffffff;  }
+
+    .fundo1{
+      position: absolute;
+      margin-left: 350px;
+      margin-top: 1550px;
+    }
+
+    .cadeira{
+      position: absolute;
+      margin-top: 2400px;
+      margin-left: 500px;
+    }
+
+    .cadeiras{
+   
+      list-style: none;
+      font-family: FELL Double Pica;
+      font-size: 200px;
+      font-style: italic;
+      position: absolute;
+      margin: 3000px 0px 0px 100px;
+      color: #c74a4a;}
+
+      
+    .cama{
+      position: absolute;
+      margin-top: 3300px;
+      margin-left: 250px;
+    }
+
+    .camas{
+   
+      list-style: none;
+      font-family: FELL Double Pica;
+      font-size: 200px;
+      font-style: italic;
+      position: absolute;
+      margin: 3900px 0px 0px 1200px;
+      color: #213A50;}

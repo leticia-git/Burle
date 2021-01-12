@@ -1,0 +1,43 @@
+menu{
+  margin-top: 7px;
+}
+
+
+header menu ul {
+float: right;
+margin-right: 20px;
+font-family: LEMON MILK;
+font-size: 18pt;
+list-style: none;}
+
+menu a {
+text-decoration: none;
+color: black;
+margin-right: 50px;
+}
+
+menu a:hover {
+color: rgb(240, 227, 156); }
+
+menu img{
+width: 130pt;
+margin-left: 780px;
+}
+
+main img{
+  position: absolute;
+}
+
+.sofa{
+ margin-left: 800px;
+padding-top:450px;
+}
+
+nav img{
+  position: absolute;
+  margin-left:1300px;
+  margin-top: -45px;
+  width: 25px;
+}
+
+
